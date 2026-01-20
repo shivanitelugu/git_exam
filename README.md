@@ -15,8 +15,8 @@
 
 # Git Commands Used
 
-<p> git clone <URL> (git repo) </p>
-<p> cd <reponame> </p>
+<p> git clone "URL" (git repo) </p>
+<p> cd "reponame" </p>
 <p> touch "file_name" </p>
 <p> git add .</p>
 <p> git commit -m "commit message" </p>
@@ -24,11 +24,11 @@
 <p> git push -u origin "branch-name" </p>
 <p> git checkout -b origin "branch-name" </p>
 <p> create files,stage it, commit it </p>
-<p> git push</p>
+<p> git push </p>
 <p> git log -- oneline </p>
 <p> ls</p>
 <p> git checkout main_branch </p>
 <p> ls </p>
-<p> git cherry-pick <oldest commit ID>^..<newest commit ID> </p>
+<p> git cherry-pick "oldest commit ID" ^.."newest commit ID" </p>
 <p> git push </p>
 <p> ls </p>
