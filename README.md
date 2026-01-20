@@ -6,14 +6,14 @@
 <p>git config --global user.name "username" </p>
 <p>git config --global user.email "email" </p>
 
-#Git_Setup
+# Git_Setup
 
 <p>create a new repo </p>
 <p>create a new folder on Desktop</p>
 <p> open git bash in folder</p>
 <p>Do git configure </p>
 
-#Git Commands Used
+# Git Commands Used
 
 <p> git clone <URL> (git repo) </p>
 <p> cd <reponame> </p>
